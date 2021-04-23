@@ -1,5 +1,5 @@
 body {
- background-color: ;   
+ background-color: rgba(37,142,255,1) ;   
 }
 
 header, footer{
@@ -50,4 +50,10 @@ footer > p {
 article {
    
     margin: 10px 0px;
+}
+
+.burritoPic{
+    height: 500px;
+    width: 800px;
+    
 }
